@@ -70,13 +70,13 @@ CLIENT:
 SERVER:
 
 
-<img width="553" height="125" alt="Screenshot 2026-05-18 134145" src="https://github.com/user-attachments/assets/e88788d9-dcec-498d-b912-db3cea09ef7d" />
+<img width="1252" height="108" alt="image" src="https://github.com/user-attachments/assets/18c0ee05-aaf5-43af-bb87-66b58953f747" />
 
 
 CLIENT:
 
 
-<img width="546" height="124" alt="Screenshot 2026-05-18 134223" src="https://github.com/user-attachments/assets/fde9bd36-993c-449a-9342-27611d932ed5" />
+<img width="691" height="247" alt="image" src="https://github.com/user-attachments/assets/c6663c75-73af-4f7e-a5eb-de949719e9f0" />
 
 
 ## Result:
